@@ -1,4 +1,4 @@
-package prac;
+package practice;
 import java.util.Scanner;//scammer*
 
 public class OneVowel {
