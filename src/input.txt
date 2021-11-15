@@ -1,0 +1,24 @@
+1
+Does it swim?
+2
+3
+
+2
+Is it a fish?
+fish
+dolphin
+
+3
+Does it usually walk on 4 legs?
+4
+human
+
+4
+Is it a commonly kept as a pet?
+cat
+5
+
+5
+Does it like mud?
+pig
+cow
