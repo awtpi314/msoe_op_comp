@@ -1,4 +1,0 @@
-law of sines
-sin a = sin b = sin c
------   -----   -----
-  a       b       c
